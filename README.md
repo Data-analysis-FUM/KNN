@@ -47,3 +47,4 @@ plt.show()
 
 best_k = k_values[cv_scores.index(max(cv_scores))] # choose the K with the highest accuracy
 ```
+[Try it...](https://github.com/Data-analysis-FUM/KNN/blob/main/Best%20K.ipynb)
